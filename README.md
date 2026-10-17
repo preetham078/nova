@@ -2,6 +2,9 @@
 
 Nova is a Phase 1 Android prototype for a privacy-respecting personal AI voice assistant.
 
+<b>check out live here :</b> https://preetham078.github.io/nova/
+
+
 ## Phase 1 Features
 
 - Jetpack Compose UI with Home, Connected Accounts, and Settings screens
