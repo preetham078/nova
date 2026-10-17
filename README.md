@@ -26,4 +26,8 @@ Open the folder in Android Studio and run the `app` configuration, or use:
 ```
 
 The shell is prepared for later phases: Room memory, Gmail OAuth, notification access, confirmation flows, and privacy controls.
+
+## Project page
+
+The project landing page is published to GitHub Pages by the `Deploy GitHub Pages` workflow when changes are pushed to `main`. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. The landing page describes the Android prototype; it is not a browser version of the app.
 # nova
